@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @elnadar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Analysis
+- 📫 How to reach me:
+    * __for WhatsApp and Telegram:__ +20 106 601 0266
+    * __Linked In__ : https://www.linkedin.com/in/elnaddar
+    * __Email__ : compulack@gmail.com
 
 <!---
 elnadar/elnadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
