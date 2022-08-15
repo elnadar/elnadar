@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Data Analysis
 - 📫 How to reach me:
     * __for WhatsApp and Telegram:__ +20 106 601 0266
-    * __Linked In__ : https://www.linkedin.com/in/elnaddar
-    * __Email__ : compulack@gmail.com
+    * __Linked In__ : https://www.linkedin.com/in//ahmed-elnaddar
+    * __Email__ : am.elnaddar@gmail.com
 
 <!---
 elnadar/elnadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
